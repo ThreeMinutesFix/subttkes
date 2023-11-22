@@ -1,0 +1,33 @@
+{
+  "categories": [
+    {
+      "name": "Account",
+      "questions": [
+        {
+          "question": "Question 1",
+          "answer": "Answer 1"
+        },
+        {
+          "question": "Question 2",
+          "answer": "Answer 2"
+        },
+        // ... more questions
+      ]
+    },
+    {
+      "name": "Payment",
+      "questions": [
+        {
+          "question": "Question A",
+          "answer": "Answer A"
+        },
+        {
+          "question": "Question B",
+          "answer": "Answer B"
+        },
+        // ... more questions
+      ]
+    },
+    // ... more categories
+  ]
+}
