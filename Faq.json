@@ -1,0 +1,29 @@
+{
+  "faq": [
+    {
+      "question": "What is the purpose of this app?",
+      "answer": "The purpose of this app is to..."
+    },
+    {
+      "question": "How do I get started?",
+      "answer": "To get started, follow these steps..."
+    },
+    {
+      "question": "Is there a user guide available?",
+      "answer": "Yes, you can find the user guide at..."
+    },
+    {
+      "question": "Can I customize my settings?",
+      "answer": "Certainly! You can customize your settings by..."
+    },
+    {
+      "question": "Is there customer support?",
+      "answer": "Yes, we provide customer support through..."
+    },
+    {
+      "question": "What platforms does the app support?",
+      "answer": "The app currently supports..."
+    }
+    // Add more question-answer pairs as needed
+  ]
+}
