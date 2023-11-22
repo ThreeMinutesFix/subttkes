@@ -1,28 +1,33 @@
 {
-  "faq": [
+  "categories": [
     {
-      "question": "What is the purpose of this app?",
-      "answer": "The purpose of this app is to..."
+      "name": "Account",
+      "questions": [
+        {
+          "question": "Question 1",
+          "answer": "Answer 1"
+        },
+        {
+          "question": "Question 2",
+          "answer": "Answer 2"
+        },
+        // ... more questions
+      ]
     },
     {
-      "question": "How do I get started?",
-      "answer": "To get started, follow these steps..."
+      "name": "Payment",
+      "questions": [
+        {
+          "question": "Question A",
+          "answer": "Answer A"
+        },
+        {
+          "question": "Question B",
+          "answer": "Answer B"
+        },
+        // ... more questions
+      ]
     },
-    {
-      "question": "Is there a user guide available?",
-      "answer": "Yes, you can find the user guide at..."
-    },
-    {
-      "question": "Can I customize my settings?",
-      "answer": "Certainly! You can customize your settings by..."
-    },
-    {
-      "question": "Is there customer support?",
-      "answer": "Yes, we provide customer support through..."
-    },
-    {
-      "question": "What platforms does the app support?",
-      "answer": "The app currently supports..."
-    }
+    // ... more categories
   ]
 }
